@@ -4,4 +4,5 @@ Hello everyone , I have enrolled myself in a Data Scientist Training and Interns
 <br><br>Here's the link for you to enroll as well<br>
 <a href="https://www.shapeai.tech/product/data-analyst-training-and-internship"> <img src="https://uploads-ssl.webflow.com/6077f96cf4fa19216396daaf/6092cf245840cdee515d8e9c_SHAPEAI%20blue.svg" width="400" height="200"> </a>
 <br>Project List :
-<li>Exploratory Data Analysis on Uber<br>
+<li>Uber Data Analysis<br>
+  <li>Walmart Data Analysis
