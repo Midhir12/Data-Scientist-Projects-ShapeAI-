@@ -6,3 +6,4 @@ Hello everyone , I have enrolled myself in a Data Scientist Training and Interns
 <br>Project List :
 <li>Uber Data Analysis<br>
   <li>Walmart Data Analysis
+    <li>Salary Prediction using Linear Regression
