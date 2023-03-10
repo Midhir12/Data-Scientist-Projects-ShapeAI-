@@ -10,3 +10,4 @@ Hello everyone , I have enrolled myself in a Data Scientist Training and Interns
       <li>Decision Tree Regressor
         <li>Support Vector Regressor
           <li>Support Vector Classifier
+          <li> K Nearest Neighbours
