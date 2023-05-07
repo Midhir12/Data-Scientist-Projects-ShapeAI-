@@ -11,3 +11,4 @@ Hello everyone , I have enrolled myself in a Data Scientist Training and Interns
         <li>Student marks prediction based on their number of hours of study using Support Vector Regressor
           <li>Support Vector Classifier
           <li> K Nearest Neighbours
+          <li> Customer Segmentation using K Means Clustering
