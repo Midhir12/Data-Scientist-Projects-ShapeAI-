@@ -10,5 +10,5 @@ Hello everyone , I have enrolled myself in a Data Scientist Training and Interns
       <li>Ice cream shop revenue Prediction using Decision Tree Regressor
         <li>Student marks prediction based on their number of hours of study using Support Vector Regressor
           <li>Support Vector Classifier
-          <li> K Nearest Neighbours
+          <li>Iphone purchase record using K Nearest Neighbours
           <li> Customer Segmentation using K Means Clustering
