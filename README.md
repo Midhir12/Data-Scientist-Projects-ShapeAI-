@@ -11,4 +11,5 @@ Hello everyone , I have enrolled myself in a Data Scientist Training and Interns
         <li>Student marks prediction based on their number of hours of study using Support Vector Regressor
           <li>Purchasing record using Support Vector Classifier
           <li>Iphone purchase record using K Nearest Neighbours
-          <li> Customer Segmentation using K Means Clustering
+          <li>Customer Segmentation using K Means Clustering
+          <li>Credit card fraud detection using Random Forest Classifier
