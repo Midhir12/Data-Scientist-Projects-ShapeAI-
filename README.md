@@ -8,6 +8,6 @@ Hello everyone , I have enrolled myself in a Data Scientist Training and Interns
   <li>Walmart Data Analysis
     <li>Salary Prediction using Linear Regression
       <li>Ice cream shop revenue Prediction using Decision Tree Regressor
-        <li>Support Vector Regressor
+        <li>Student marks prediction based on their number of hours of study using Support Vector Regressor
           <li>Support Vector Classifier
           <li> K Nearest Neighbours
