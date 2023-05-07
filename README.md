@@ -7,7 +7,7 @@ Hello everyone , I have enrolled myself in a Data Scientist Training and Interns
 <li>Uber Data Analysis<br>
   <li>Walmart Data Analysis
     <li>Salary Prediction using Linear Regression
-      <li>Decision Tree Regressor
+      <li>Ice cream shop revenue Prediction using Decision Tree Regressor
         <li>Support Vector Regressor
           <li>Support Vector Classifier
           <li> K Nearest Neighbours
