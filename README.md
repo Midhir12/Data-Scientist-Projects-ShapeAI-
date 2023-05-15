@@ -3,9 +3,11 @@ Hello everyone , I have enrolled myself in a Data Scientist Training and Interns
 <br><br><a href="https://www.linkedin.com/in/midhir-nambiar-b353741b8/">Do a tap-tap and let's connect on LinkedIn!!</a>
 <br><br>Here's the link for you to enroll as well<br>
 <a href="https://www.shapeai.tech/product/data-analyst-training-and-internship"> <img src="https://global-uploads.webflow.com/6077f96cf4fa19216396daaf/61a1bee63c6e040a0dd33805_LOGO.svg" width="400" height="200"> </a>
-<br>Project List :
-<li>Uber drives Data Analysis<br>
-  <li>Walmart Store sales Analysis
+<br>Project List :<br>
+<br>Data Analysis:
+<li>Uber drives Data Analysis
+  <li>Walmart Store sales Analysis<br>
+    <br>Machine Learning:
     <li>Salary Prediction using Linear Regression
       <li>Ice cream shop revenue Prediction using Decision Tree Regressor
         <li>Student marks prediction based on their number of hours of study using Support Vector Regressor
@@ -13,3 +15,4 @@ Hello everyone , I have enrolled myself in a Data Scientist Training and Interns
           <li>Iphone purchase record using K Nearest Neighbours
           <li>Customer Segmentation using K Means Clustering
           <li>Credit card fraud detection using Random Forest Classifier
+           <li>Car price prediction using Random Forest Classifier
