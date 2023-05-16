@@ -16,4 +16,4 @@ Hello everyone , I have enrolled myself in a Data Scientist Training and Interns
           <li>Iphone purchase record using K Nearest Neighbours
           <li>Customer Segmentation using K Means Clustering
           <li>Credit card fraud detection using Random Forest Classifier
-           <li>Car price prediction using Random Forest Classifier
+           <li>Car price prediction using Random Forest Regressor
