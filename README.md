@@ -10,6 +10,7 @@ Hello everyone , I have enrolled myself in a Data Scientist Training and Interns
     <br>Machine Learning:
     <li>Salary Prediction using Linear Regression
       <li>Ice cream shop revenue Prediction using Decision Tree Regressor
+        <li>HR Analytics using Decision Tree Classifier
         <li>Student marks prediction based on their number of hours of study using Support Vector Regressor
           <li>Purchasing record using Support Vector Classifier
           <li>Iphone purchase record using K Nearest Neighbours
