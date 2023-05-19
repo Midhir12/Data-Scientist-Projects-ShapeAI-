@@ -2,7 +2,7 @@ Hello everyone , I have enrolled myself in a Data Scientist Training and Interns
 <br><br>The Goal of this Industrial Training Program is to advance your programming skills and refine your ability to work with messy , complex datasets. You'll learn to manipulate and prepare data for analysis , and create visualisations for data exploration. Finally you'll learn your data skills to tell a story with the data. In this program you'll learn foundational data skills that apply across functions and industries. <br><br>You'll learn to analyse the data and build models with Excel, query databases using SQL, and create informative data visualisations with Python and it's libraries. All my internship projects are included in this repository collectively.
 <br><br><a href="https://www.linkedin.com/in/midhir-nambiar-b353741b8/">Do a tap-tap and let's connect on LinkedIn!!</a>
 <br><br>Here's the link for you to enroll as well<br>
-<a href="https://www.shapeai.tech/product/data-analyst-training-and-internship"> <img src="https://global-uploads.webflow.com/6077f96cf4fa19216396daaf/61a1bee63c6e040a0dd33805_LOGO.svg" width="400" height="200"> </a>
+<a href="https://www.devtown.in/product/data-analyst-training-and-internship"> <img src="https://global-uploads.webflow.com/6077f96cf4fa19216396daaf/61a1bee63c6e040a0dd33805_LOGO.svg" width="400" height="200"> </a>
 <br>Project List :<br>
 <br>Data Analysis:
 <li>Uber drives Data Analysis
