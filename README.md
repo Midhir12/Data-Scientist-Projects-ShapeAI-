@@ -18,3 +18,5 @@ Hello everyone , I have enrolled myself in a Data Scientist Training and Interns
           <li>Credit card fraud detection using Random Forest Classifier
            <li>Car price prediction using Random Forest Regressor
              <li>Market Basket Analysis using Apriori Algorithm
+               <li>Market Basket Analysis using ECLAT<br>
+                  <br>Deep Learning:
