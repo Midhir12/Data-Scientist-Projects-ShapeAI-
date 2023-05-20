@@ -20,3 +20,4 @@ Hello everyone , I have enrolled myself in a Data Scientist Training and Interns
              <li>Market Basket Analysis using Apriori Algorithm
                <li>Market Basket Analysis using ECLAT<br>
                   <br>Deep Learning:
+                 <li>Handwritten digit classification using Neural Networks
