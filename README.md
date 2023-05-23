@@ -4,10 +4,8 @@ Hello everyone , I have enrolled myself in a Data Scientist Training and Interns
 <br><br>Here's the link for you to enroll as well<br>
 <a href="https://www.devtown.in/product/data-analyst-training-and-internship"> <img src="https://global-uploads.webflow.com/6077f96cf4fa19216396daaf/61a1bee63c6e040a0dd33805_LOGO.svg" width="400" height="200"> </a>
 <br>Project List :<br>
-<br>Data Analysis:
 <li>Uber drives Data Analysis
-  <li>Walmart Store sales Analysis<br>
-    <br>Machine Learning:
+  <li>Walmart Store sales Analysis
     <li>Salary Prediction using Linear Regression
       <li>Ice cream shop revenue Prediction using Decision Tree Regressor
         <li>HR Analytics using Decision Tree Classifier
@@ -18,6 +16,7 @@ Hello everyone , I have enrolled myself in a Data Scientist Training and Interns
           <li>Credit card fraud detection using Random Forest Classifier
            <li>Car price prediction using Random Forest Regressor
              <li>Market Basket Analysis using Apriori Algorithm
-               <li>Market Basket Analysis using ECLAT<br>
-                  <br>Deep Learning:
+               <li>Market Basket Analysis using ECLAT
                  <li>Handwritten digit classification using Neural Networks
+                   <li>Image Classification on CIFAR10 dataset using CNN
+                     <li>SQL Query IMDB dataset Analysis
