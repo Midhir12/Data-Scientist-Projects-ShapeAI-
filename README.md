@@ -20,4 +20,5 @@ Hello everyone , I have enrolled myself in a Data Scientist Training and Interns
                  <li>Handwritten digit classification using Neural Networks
                    <li>Image Classification on CIFAR10 dataset using CNN
                      <li>SQL Query IMDB dataset Analysis
+                       <li>Wine Quality Prediction
                        <li>US Elections Sentiment Analysis
